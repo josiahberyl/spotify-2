@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ccarousel_slider: 4.2.0
+  carousel_slider: ^4.0.0
   http: ^0.13.6
 
 dev_dependencies:
